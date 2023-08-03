@@ -1,1 +1,1 @@
-this project is about sales insight of vrinda limited product
+this project is about sales insight of vrinda limited product and an annual report of year 2022. by this report we can know that in which month we got highest revenue and on what product, it is also helpful in deciding what we should produce more in future so that we get maximum profit.
